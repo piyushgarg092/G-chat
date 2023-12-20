@@ -36,6 +36,9 @@
 # Video
 
 
-https://github.com/piyushgarg092/G-chat/assets/56030828/49400cd8-79ab-4814-bce4-c196eb4774b5
 
+
+
+
+https://github.com/piyushgarg092/G-chat/assets/56030828/ec26eebb-74ce-4183-aa5e-494556459ac7
 
