@@ -33,7 +33,9 @@
 9) Upload Image
 10) Win + . for emojis
 
-# Screenshots
-  ![image](https://user-images.githubusercontent.com/64231526/172403060-604e49b7-7c65-4761-a53b-d8abe91a8ffc.png)
-![image](https://user-images.githubusercontent.com/64231526/172403115-a5c14a3b-d561-40d4-8d67-7c164acb42d9.png)
-![image](https://user-images.githubusercontent.com/64231526/172403175-e13214a8-c0b5-467c-825c-bee1d2b1ac23.png)
+# Video
+
+
+https://github.com/piyushgarg092/G-chat/assets/56030828/49400cd8-79ab-4814-bce4-c196eb4774b5
+
+
